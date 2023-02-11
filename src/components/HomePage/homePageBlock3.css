@@ -1,0 +1,106 @@
+.text {
+  color: #0a203f;
+  font-size: 72px;
+  font-weight: bold;
+  text-align: center;
+}
+.image {
+  width: 100%;
+  margin-top: 50px;
+}
+.btn2 {
+  background-image: url(https://i.pinimg.com/564x/d3/65/3b/d3653b1f922c160099eafb58d10d5051.jpg );
+
+  width: 100%;
+  height: 100%;
+  margin-top: 50px;
+  /* background-color: rgb(12, 5, 60); */
+  margin-bottom: 50px;
+}
+.image-one {
+  /* width: 100%; */
+  height: 750px;
+}
+.image-two {
+  /* width: 100%; */
+  height: 575px;
+}
+.text-one {
+  color: #0a203f;
+  font-size: 72px;
+  font-weight: bold;
+  text-align: center;
+  width: 400px;
+}
+.tranding__mainBlock {
+  text-align: center;
+}
+
+.tranding__mainBlock h3 {
+  font-size: 30px;
+  font-weight: 700;
+  margin-bottom: 30px;
+  color: rgb(22, 21, 21);
+}
+
+.photosTranding {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.photoDivs {
+  width: 15%;
+}
+
+.photoDivs p {
+  margin: 10px 0;
+  font-size: 18px;
+  font-weight: 700;
+  color: rgb(22, 21, 21);
+}
+
+.mainPhoto {
+  width: 100%;
+  margin: 10px 0;
+}
+
+.headerMain h3 {
+  font-size: 70px;
+  /* letter-spacing: 5px; */
+  color: #0b1f3f;
+}
+
+.headerMain button {
+  width: 18%;
+  height: 60px;
+  font-weight: bold;
+  color: #fff;
+  background-color: #0b1f3f;
+  font-size: 18px;
+  border: none;
+  border-radius: 5px;
+}
+
+.center_div {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin: 30px 0;
+}
+
+.left_div h3 {
+  font-weight: 700;
+  font-size: 40px;
+  color: #0a203f;
+}
+
+.left_div img {
+  width: 20%;
+}
+
+.right_div img {
+  width: 80%;
+}

@@ -1,0 +1,38 @@
+.auth {
+    font-family: "Roboto";
+    /* color: #fff !important; */
+}
+
+.button_register {
+    background-color: #0b1f3f !important;
+    height: 50px !important;
+    font-size: 16px !important;
+    border-radius: 0%;
+}
+
+.button_sign_in {
+    background-color: #0b1f3f !important;
+    height: 50px !important;
+    font-size: 16px !important;
+    border-radius: 0%;
+}
+.button_create {
+    background-color: #0b1f3f !important;
+    height: 50px !important;
+    font-size: 16px !important;
+    border-radius: 0%;
+}
+
+.links {
+    text-decoration-color: #0b1f3f !important;
+}
+
+#line {
+    width: 1px;
+    height: 980px;
+    background-color: rgb(227, 227, 227);
+}
+
+.input-email {
+    border-radius: 0% !important;
+}
